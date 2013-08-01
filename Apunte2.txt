@@ -1,0 +1,9 @@
+Reglas de codificacion en CSS
+
+1. Todos los atributos en orden alfabeticos
+2. Orden de Estilos:
+
+ *. Pre-render
+ 1. Etiquetas
+ 2. Ids
+ 3. Clase
